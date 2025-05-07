@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Pro\bin\Debug\net8.0\Pro.exe
+C:\Users\user\source\repos\Pro\bin\Debug\net8.0\Pro.deps.json
+C:\Users\user\source\repos\Pro\bin\Debug\net8.0\Pro.runtimeconfig.json
+C:\Users\user\source\repos\Pro\bin\Debug\net8.0\Pro.dll
+C:\Users\user\source\repos\Pro\bin\Debug\net8.0\Pro.pdb
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.AssemblyInfo.cs
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.sourcelink.json
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.dll
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\refint\Pro.dll
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.pdb
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\Pro.genruntimeconfig.cache
+C:\Users\user\source\repos\Pro\obj\Debug\net8.0\ref\Pro.dll
